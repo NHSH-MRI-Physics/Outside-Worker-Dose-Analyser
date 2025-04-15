@@ -1,5 +1,5 @@
 {
-  "name": "Outside_Worker_Dose_Collater",
+  "name": "Outside_Worker_Dose_Analyser",
   "version": "0.80.5",
   "license": "Apache-2.0",
   "main": "./build/electron/main.js",
