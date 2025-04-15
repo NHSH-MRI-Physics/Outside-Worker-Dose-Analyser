@@ -26,13 +26,13 @@
   "stlite": {
     "desktop": {
       "files": [
-        "Staff_Dose_Collater_File_Selection.py",
+        "Staff_Dose_Analyser_File_Selection.py",
         "pages/*.py",
         "data",
         ".streamlit/config.toml",
         "FileAnalysis.py"
       ],
-      "entrypoint": "Staff_Dose_Collater_File_Selection.py",
+      "entrypoint": "Staff_Dose_Analyser_File_Selection.py",
       "requirementsTxtFiles": [
         "requirements.txt"
       ]

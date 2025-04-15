@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon="📊"
 )
 
-st.title("Outside Worker Dose Collater")
+st.title("Outside Worker Dose Analyser")
 
 if "uploaded_data" not in st.session_state:
     st.session_state["uploaded_data"] = None
